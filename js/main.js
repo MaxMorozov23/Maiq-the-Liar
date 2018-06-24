@@ -8,6 +8,8 @@ var randomPhrase = new Vue({
       "M’aiq knows much, and tells some. M'aiq knows many things others do not.",
       "M’aiq carries two weapons, to be safe. What if one breaks? That would be most unlucky.",
       "Feet are for walking. Hands are for hitting. Or shaking. Or waving. Sometimes for clapping.",
+      "M’aiq is always in search of calipers, yet finds none. Where could they have gone?",
+      "M’aiq hears many stories of war... yet few of them are true.",
       "I do not wish to fight on horseback. It is a good way to ruin a perfectly good horse... which is, to say, a perfectly good dinner.",
       "I don't know why one would want to destroy a building. It takes time to make it. Much time."
     ],
