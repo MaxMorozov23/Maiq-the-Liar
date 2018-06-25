@@ -9,4 +9,4 @@ When you press the button, M'aiq says a random phrase from the games, but if he 
 
 Demo: https://rawgit.com/MaxMorozov23/Maiq-the-Liar/master/index.html
 
-### Update 0.1: M'aiq now can talk.
+### Update 0.1: Now M'aiq can talk.
