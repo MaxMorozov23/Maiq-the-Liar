@@ -8,3 +8,5 @@ At the moment, the application is being finalized and is only an light version o
 When you press the button, M'aiq says a random phrase from the games, but if he gets bored, he will say about it (reload the page and he will calm down).
 
 Demo: https://rawgit.com/MaxMorozov23/Maiq-the-Liar/master/index.html
+
+Update 0.1: M'aiq now can talk.
