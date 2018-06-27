@@ -12,9 +12,9 @@
 
 <div id="app">
 <img src="img/img.png" alt="M'aiq">
-<button v-on:click="newPhrase">New phrase</button>
+<button @click="newPhrase">New phrase</button>
 <p>{{ selectedPhrase }}</p>
-<audio v-bind:src="selectedAudio" autoplay></audio>
+<audio :src="selectedAudio" autoplay></audio>
 </div>
 
 <script src="js/main.js"></script>
