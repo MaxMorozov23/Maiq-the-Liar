@@ -42,17 +42,17 @@ body {
 /* Iphone 5s, 5, SE */
 @media screen and (max-width: 568px) and (min-width: 320px) {
     #app img {
-      width: 100px;
-      height: 200px;
+      width: 200px;
+      height: 300px;
     }
     #app button {
       margin-top: 10px;
-      width: 100px;
-      height: 30px;
-      font-size: 10px;
+      width: 200px;
+      height: 60px;
+      font-size: 11px;
     }
     #app p {
       margin-top: 10px;
-      font-size: 10px;
+      font-size: 11px;
     }
 }
