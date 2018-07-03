@@ -40,19 +40,19 @@ body {
 }
 
 /* Iphone 5s, 5, SE */
-@media screen and (max-width: 568px) and (min-width: 320px) {
+@media screen and (max-height: 568px) and (min-width: 320px) {
     #app img {
-      width: 200px;
+      width: 180px;
       height: 300px;
     }
     #app button {
       margin-top: 10px;
-      width: 200px;
-      height: 60px;
-      font-size: 11px;
+      width: 180px;
+      height: 40px;
+      font-size: 20px;
     }
     #app p {
       margin-top: 10px;
-      font-size: 11px;
+      font-size: 20px;
     }
 }
