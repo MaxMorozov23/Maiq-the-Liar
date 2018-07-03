@@ -39,7 +39,8 @@ body {
   font-size: 2em;
 }
 
-@media screen and (max-width: 600px) and (min-width: 100px) {
+/* Iphone 5s, 5, SE */
+@media screen and (max-width: 568px) and (min-width: 320px) {
     #app img {
       width: 30px;
       height: 50px;
