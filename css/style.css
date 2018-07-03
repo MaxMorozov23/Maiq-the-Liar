@@ -40,7 +40,7 @@ body {
 }
 
 /* Iphone 5s, 5, SE */
-@media screen and (max-height: 568px) and (min-width: 320px) {
+@media screen and (max-width: 568px) and (min-width: 320px) {
     #app img {
       width: 180px;
       height: 300px;
