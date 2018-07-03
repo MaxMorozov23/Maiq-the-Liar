@@ -38,3 +38,20 @@ body {
   margin-top: 1em;
   font-size: 2em;
 }
+
+@media only screen and (max-width: 600px) {
+    #app img {
+      width: 30px;
+      height: 50px;
+    }
+    #app button {
+      margin-top: 5px;
+      width: 30px;
+      height: 10px;
+      font-size: 5px;
+    }
+    #app p {
+      margin-top: 5px;
+      font-size: 5px;
+    }
+}
